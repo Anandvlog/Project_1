@@ -4,6 +4,7 @@
       #1 Animation Card and cartoon image<br>
       #2 Counter-up plugging<br>
       #3 AOS Scroll Animation slider<br>
+      #4 Use Bootstrap v-4
    <b>New features comming soon...</b>
     
     
