@@ -1,0 +1,155 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #e60b2142;
+    background-image: url(../images/stars.svg);
+}
+
+.container-fluid
+{
+    width: 90% !important;
+}
+.header-logo
+{
+    width: 30%;
+}
+.middle_txt
+{
+    padding: 0px 9px 0px 9px;
+    border-radius: 12px;
+}
+.main_img
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.center-img
+{
+    width: 21%;
+    margin: 17px 279px 18px 0px;
+    position: relative;
+}
+.icon-img
+{
+    width: 18px;
+}
+.getway-img
+{
+    width: 100%;
+   
+}
+.getway-img img{
+    width: 113px;
+    margin-top: -75px;
+    margin-bottom: -40px;
+}
+/* .center-img::after
+{
+    content: "";
+    background-image: url(../images/center-icon.svg);
+    position: absolute;
+} */
+.main-txt
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: -90px;
+}
+.center-txt
+{
+    width: 38%;
+    margin-top: 16px;
+    margin-left: 300px;
+}
+.center-text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+.btn-radius
+{
+    border-radius: 15px;
+    background-color: #ff1f7a;
+    border: 0px solid #ff1f7a;
+}
+.main-img img{
+    width: 40px;
+    z-index: 99;
+    position: absolute;
+    top: 70px;
+    left: 215px;
+}
+.pizza-img
+{
+    width: 59px;
+    position: absolute;
+    z-index: 9;
+    top: 220px;
+    left: 100px;
+
+}
+.hello-img img
+{
+    width: 150px;
+    position: absolute;
+    z-index: 99;
+    top: -22px;
+    left: 119px;
+}
+.rocket-img img{
+    width: 55px;
+    position: absolute;
+    top: -115px;
+    left: 374px;
+    z-index: 99;
+
+}
+.heart-img img{
+    width: 46px;
+    position: absolute;
+    z-index: 99;
+    right: 369px;
+    bottom: 129px;
+
+}
+.universe-img img{
+    width: 44px;
+    position: absolute;
+    z-index: 99;
+    right: 274px;
+    bottom: 245px;
+}
+.astronaut-img img{
+    width: 108px;
+    position: absolute;
+    z-index: 99;
+    right: 169px;
+    bottom: 138px;
+}
+
+.middle-heart img{
+    width: 45px;
+    position: absolute;
+    z-index: 99;
+    bottom: 271px;
+    left: 123px;
+}
+.card-radius
+{
+    border-radius: 40px !important;
+}
+.footer-img img{
+    width: 100%;
+    margin-top: 66px;
+    height: auto;
+    margin-left: 0px;
+}
