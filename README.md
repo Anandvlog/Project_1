@@ -5,7 +5,7 @@
       #2 Counter-up plugging<br>
       #3 AOS Scroll Animation slider<br>
       #4 Use Bootstrap v-4<br>
-   <b>project work in progress..</b> 
+   <b>project work in progress..</b> <br>
    <b>New features comming soon...</b>
     
     
