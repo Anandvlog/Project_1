@@ -5,7 +5,8 @@
       #2 Counter-up plugging<br>
       #3 AOS Scroll Animation slider<br>
       #4 Use Bootstrap v4<br>
-      #5 Add two more new section<br>
+      #5 Add two more new section<br><br>
+      <img src=".pdf">
    <b>project work in progress..</b> <br>
    <b>New features comming soon...</b>
     
