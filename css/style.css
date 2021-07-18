@@ -5,21 +5,31 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-body{
-    /* background: #e60b2142; */
-    background-image: url(../images/stars.svg);
-}
+
 
 #text{
-    background: #e60b21ab !important;
+    background: #fc716e !important;
+
 }
 #sections
 {
-    background: #e60b2142;
+    background: #ffb3a9;
+    background-image: url(../images/stars.svg);
+  
+
 }
+
 #text-three
 {
     background: #16a3a3;
+}
+#text-four
+{
+    background: #663182;
+}
+#text-five
+{
+    background: #3e1368;
 }
 .container-fluid
 {
@@ -39,7 +49,13 @@ body{
     align-items: center;
     display: flex;
     justify-content: center;
+    position: relative;
 }
+/* .main_img img::before
+{
+    content: "";
+    background-image: url(../images/circle.svg);
+} */
 .center-img
 {
     width: 21%;
@@ -158,6 +174,31 @@ body{
 {
     border-radius: 40px !important;
 }
+.line-text  button
+{
+    border-radius: 20px ;
+}
+.line-text  button:hover
+{
+    background: #16a3a3;
+   box-shadow: none;
+   
+}
+.side-line-text ul {
+    list-style-type:none;
+}
+.img img{
+    width: 64%;
+    margin: 34px 0px 0px 65px;
+    position: relative;
+}
+
+.img img::before
+{
+    content: "";
+    background-image: url(../images/how-to-buy-img.svg);
+}
+
 .footer-img img{
     width: 100%;
     margin-top: 66px;
